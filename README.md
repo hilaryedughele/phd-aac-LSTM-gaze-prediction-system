@@ -74,7 +74,7 @@ If you use this project in your research or publication, please cite:
   author       = {Hilary O. Edughele},
   title        = {Eye-Tracking and Speech-Based AAC System with LSTM Gaze Prediction},
   year         = {2025},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/AAC03062025v2}}
+  howpublished = {\url{https://github.com/hilaryedughele/phd-aac-LSTM-gaze-prediction-system}}
 }
 
 🙋 Acknowledgments
